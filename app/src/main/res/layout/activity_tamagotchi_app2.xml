@@ -87,8 +87,8 @@
 
     <ImageView
         android:id="@+id/imageViewToothless"
-        android:layout_width="555dp"
-        android:layout_height="344dp"
+        android:layout_width="625dp"
+        android:layout_height="374dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
